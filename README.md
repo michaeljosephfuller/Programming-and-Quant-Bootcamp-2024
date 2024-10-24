@@ -4,7 +4,7 @@
 
 This repo contains a collection of Jupyter Notebooks that I have written to assist my learning whilst studying for my self-created **Programming and Quant Finance Bootcamp (PQFB)**. I have kept the details of the bootcamp private, such as the reading list, granular objectives, and exercises, but provide a brief overview below.
 
-The PQFB consists of two learning tracks: a Python Programming track (PQF-1) and a Quantitative Financetrack (PQF-2).
+The PQFB consists of two learning tracks: a Python Programming track (PQF-1) and a Quantitative Finance track (PQF-2).
 
 PQF-1 explores the foundations of the Python programming language and helps the reader to build their confidence and proficiency in the language through Python-based data analysis and machine learning projects. 
 
